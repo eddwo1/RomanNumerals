@@ -1,0 +1,5 @@
+c:\users\edd\documents\visual studio 2015\Projects\RomanNumeralsConverter\RomanNumeralsConverters\obj\Debug\RomanNumeralsConverters.csprojResolveAssemblyReference.cache
+c:\users\edd\documents\visual studio 2015\Projects\RomanNumeralsConverter\RomanNumeralsConverters\bin\Debug\RomanNumeralsConverters.dll
+c:\users\edd\documents\visual studio 2015\Projects\RomanNumeralsConverter\RomanNumeralsConverters\bin\Debug\RomanNumeralsConverters.pdb
+c:\users\edd\documents\visual studio 2015\Projects\RomanNumeralsConverter\RomanNumeralsConverters\obj\Debug\RomanNumeralsConverters.dll
+c:\users\edd\documents\visual studio 2015\Projects\RomanNumeralsConverter\RomanNumeralsConverters\obj\Debug\RomanNumeralsConverters.pdb

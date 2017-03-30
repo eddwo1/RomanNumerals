@@ -1,0 +1,9 @@
+c:\users\edd\documents\visual studio 2015\Projects\RomanNumeralsConverter\RomanNumeralsAutoVerificationRunner\bin\Debug\RomanNumeralsAutoVerificationRunner.exe.config
+c:\users\edd\documents\visual studio 2015\Projects\RomanNumeralsConverter\RomanNumeralsAutoVerificationRunner\bin\Debug\RomanNumeralsAutoVerificationRunner.exe
+c:\users\edd\documents\visual studio 2015\Projects\RomanNumeralsConverter\RomanNumeralsAutoVerificationRunner\bin\Debug\RomanNumeralsAutoVerificationRunner.pdb
+c:\users\edd\documents\visual studio 2015\Projects\RomanNumeralsConverter\RomanNumeralsAutoVerificationRunner\bin\Debug\RomanNumeralsConverters.dll
+c:\users\edd\documents\visual studio 2015\Projects\RomanNumeralsConverter\RomanNumeralsAutoVerificationRunner\bin\Debug\RomanNumeralsConverters.pdb
+c:\users\edd\documents\visual studio 2015\Projects\RomanNumeralsConverter\RomanNumeralsAutoVerificationRunner\obj\Debug\RomanNumeralsAutoVerificationRunner.csprojResolveAssemblyReference.cache
+c:\users\edd\documents\visual studio 2015\Projects\RomanNumeralsConverter\RomanNumeralsAutoVerificationRunner\obj\Debug\RomanNumeralsAutoVerificationRunner.exe
+c:\users\edd\documents\visual studio 2015\Projects\RomanNumeralsConverter\RomanNumeralsAutoVerificationRunner\obj\Debug\RomanNumeralsAutoVerificationRunner.pdb
+c:\users\edd\documents\visual studio 2015\Projects\RomanNumeralsConverter\RomanNumeralsAutoVerificationRunner\bin\Debug\NumerNumeralConversions.csv
